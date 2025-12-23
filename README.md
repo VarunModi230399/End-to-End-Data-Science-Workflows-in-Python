@@ -1,4 +1,4 @@
-# Python Data Science & Web Scraping Projects
+# End to End Data Science Workflows in Python
 
 ## Project Overview
 This project demonstrates **end-to-end data science workflows** using Python, covering data cleaning, exploration, visualization, and machine learning. It also includes **web scraping projects** to collect and process real-world data for analysis.
